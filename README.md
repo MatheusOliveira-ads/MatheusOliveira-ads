@@ -1,37 +1,58 @@
 <h1 align="center">👋 Olá, eu sou o Matheus Patrão</h1>
 
-<h3 align="center">QA Analyst | Software Quality Assurance</h3>
+<h3 align="center">QA Analyst | Manual Testing • API Testing • SQL</h3>
+
+<p align="center">
+Apaixonado por qualidade de software, testes de APIs e melhoria contínua.
+</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou **QA Analyst** com experiência em testes funcionais, testes exploratórios, testes de regressão e validação de APIs REST.
+Sou **QA Analyst** com experiência em testes funcionais, exploratórios e de regressão, além da validação de APIs REST e regras de negócio.
 
-No meu dia a dia trabalho com análise de requisitos, documentação de bugs, criação de cenários de teste, consultas SQL e validação de regras de negócio em sistemas ERP.
+Atuo diariamente na análise de requisitos, elaboração de cenários e casos de teste, documentação de bugs, homologação de funcionalidades e validações em banco de dados SQL para sistemas ERP.
 
-Atualmente estou expandindo meus conhecimentos em **Automação de Testes**, buscando evoluir para a área de QA Automation.
+Tenho experiência utilizando ferramentas como **Postman**, **Swagger**, **SQL**, **Git** e **GitHub**, garantindo a qualidade das entregas durante todo o ciclo de desenvolvimento.
+
+Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** utilizando **Python** e **Cypress**, com o objetivo de evoluir para a área de QA Automation.
 
 ---
 
-# 💼 O que faço
+# 💼 Experiência
 
 - ✅ Testes Funcionais
 - ✅ Testes Exploratórios
 - ✅ Testes de Regressão
 - ✅ Testes de APIs REST
-- ✅ Validação de Regras de Negócio
-- ✅ Criação de Casos de Teste
-- ✅ Documentação de Bugs
-- ✅ Consultas SQL
 - ✅ Homologação de Funcionalidades
+- ✅ Validação de Regras de Negócio
+- ✅ Criação de Casos e Cenários de Teste
+- ✅ Documentação de Bugs e Melhorias
+- ✅ Consultas SQL
+- ✅ Testes em Sistemas ERP
 
 ---
 
-# 🛠️ Ferramentas
+# 🛠️ Ferramentas e Tecnologias
+
+### Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,python,html,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Versionamento
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### QA
@@ -46,6 +67,8 @@ Atualmente estou expandindo meus conhecimentos em **Automação de Testes**, bus
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+
 </p>
 
 ---
@@ -54,30 +77,21 @@ Atualmente estou expandindo meus conhecimentos em **Automação de Testes**, bus
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-ads&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-ads&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Contribuições
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MatheusOliveira-ads&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 🎯 Objetivos
-
-- Evoluir para QA Automation.
-- Compartilhar projetos e estudos no GitHub.
-- Desenvolver automações de testes para APIs e aplicações Web.
-- Contribuir com projetos Open Source.
 
 ---
 
@@ -90,7 +104,7 @@ Atualmente estou expandindo meus conhecimentos em **Automação de Testes**, bus
 </a>
 
 <a href="mailto:matheus.poliveira96@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
