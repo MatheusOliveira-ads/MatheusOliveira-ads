@@ -16,7 +16,7 @@ Atuo diariamente na análise de requisitos, elaboração de cenários e casos de
 
 Tenho experiência utilizando **Postman**, **Swagger**, **SQL**, **Git** e **GitHub**, garantindo a qualidade das entregas durante todo o ciclo de desenvolvimento.
 
-Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** utilizando **Python** e **Cypress**, com foco em evoluir para QA Automation.
+Atualmente estou aprimorando meus conhecimentos em **Automação de Testes**, com foco em evoluir para QA Automation.
 
 ---
 
