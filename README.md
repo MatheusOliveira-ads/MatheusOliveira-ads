@@ -8,19 +8,19 @@ Apaixonado por qualidade de software, testes de APIs e melhoria contínua.
 
 ---
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou **QA Analyst** com experiência em testes funcionais, exploratórios e de regressão, além da validação de APIs REST e regras de negócio.
 
 Atuo diariamente na análise de requisitos, elaboração de cenários e casos de teste, documentação de bugs, homologação de funcionalidades e validações em banco de dados SQL para sistemas ERP.
 
-Tenho experiência utilizando ferramentas como **Postman**, **Swagger**, **SQL**, **Git** e **GitHub**, garantindo a qualidade das entregas durante todo o ciclo de desenvolvimento.
+Tenho experiência utilizando **Postman**, **Swagger**, **SQL**, **Git** e **GitHub**, garantindo a qualidade das entregas durante todo o ciclo de desenvolvimento.
 
-Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** utilizando **Python** e **Cypress**, com o objetivo de evoluir para a área de QA Automation.
+Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** utilizando **Python** e **Cypress**, com foco em evoluir para QA Automation.
 
 ---
 
-# 💼 Experiência
+## 💼 Experiência
 
 - ✅ Testes Funcionais
 - ✅ Testes Exploratórios
@@ -29,35 +29,15 @@ Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** uti
 - ✅ Homologação de Funcionalidades
 - ✅ Validação de Regras de Negócio
 - ✅ Criação de Casos e Cenários de Teste
-- ✅ Documentação de Bugs e Melhorias
+- ✅ Documentação de Bugs
 - ✅ Consultas SQL
 - ✅ Testes em Sistemas ERP
 
 ---
 
-# 🛠️ Ferramentas e Tecnologias
+## 🛠️ Ferramentas e Tecnologias
 
-### Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,html" />
-</p>
-
-### Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Versionamento
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### QA
-
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
@@ -67,35 +47,21 @@ Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** uti
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-ads&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-ads&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🔥 Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MatheusOliveira-ads&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Contato
+## 📫 Contato
 
 <p>
 
